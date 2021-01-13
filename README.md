@@ -1,5 +1,5 @@
 # JapaneseBonnouScript
-Unity1Weekの作品「鳴らせ！除夜の鐘」（https://unityroom.com/games/japanese_bonnou） のスクリプト公開リポジトリ
+Unity1Weekの作品「鳴らせ！除夜の鐘」(https://unityroom.com/games/japanese_bonnou)のスクリプト公開リポジトリ
 
 ## 使用ライブラリ
 [UniRx](https://github.com/neuecc/UniRx)  
